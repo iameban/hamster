@@ -3,7 +3,7 @@ from telebot import types
 
 bot = telebot.TeleBot("token")
 
-web_app_url = "https://t.me/Hamstergey_bot/webapp"
+web_app_url = "https://t.me/Hamstercopebot/webapp"
 
 text = "Это приложение - копия игры Hamster Sofia!\n\nНажмите на кнопку снизу, что запустить его!"
 
