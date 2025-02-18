@@ -1,6 +1,8 @@
 import telebot
 from telebot import types
 
+token = "7823395074:AAEX4d0K-xfkjWfR5chpfuS9jDH9k52-qag"
+
 bot = telebot.TeleBot("token")
 
 web_app_url = "https://t.me/Hamstercopebot/webapp"
